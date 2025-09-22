@@ -1,2 +1,13 @@
-# SmartShop-Inventory-System
-Inventory management database project for SmartShop
+# SmartShop Inventory System
+
+Database-driven inventory management system designed for SmartShop.
+
+Features:
+- Product, stock, and category management
+- Optimized and debugged SQL queries
+- Database creation and maintenance scripts
+
+Technologies:
+- SQL Server
+- C#
+
